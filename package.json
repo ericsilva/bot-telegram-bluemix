@@ -1,0 +1,19 @@
+{
+	"name": "BotTelegramBluemix",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"express": "4.13.x",
+		"cfenv": "1.0.x",
+		"watson-developer-cloud": "^1.4.1",
+		"request": "*",
+		"node-telegram-bot-api": "*"
+	},
+	"repository": {},
+	"engines": {
+		"node": "4.x"
+	} 
+}
